@@ -1,0 +1,157 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="486pt" height="422pt" viewBox="0.00 0.00 486.47 422.00">
+<g id="graph0" class="graph" transform="translate(-3.832275390625,427.1025390625) scale(1)" data-name="ProjectStructure">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-418 482.47,-418 482.47,4 -4,4" style=""/>
+<!-- RosettaStoneParadigm -->
+<g id="node1" class="node" pointer-events="visible" data-name="RosettaStoneParadigm">
+
+<polygon fill="lightblue" stroke="black" points="150.31,-225 0.23,-225 0.23,-189 150.31,-189 150.31,-225" style=""/>
+<text text-anchor="middle" x="75.27" y="-202.8" font-family="Times,serif" font-size="14.00" style="">Rosetta Stone Paradigm</text>
+</g>
+<!-- GUI -->
+<g id="node2" class="node" pointer-events="visible" data-name="GUI">
+
+<polygon fill="lightblue" stroke="black" points="264.7,-360 210.7,-360 210.7,-324 264.7,-324 264.7,-360" style=""/>
+<text text-anchor="middle" x="237.7" y="-337.8" font-family="Times,serif" font-size="14.00" style="">GUI</text>
+</g>
+<!-- RosettaStoneParadigm&#45;&gt;GUI -->
+<g id="edge1" class="edge" data-name="RosettaStoneParadigm-&gt;GUI">
+
+<path fill="none" stroke="black" d="M98.24,-225.49C126.24,-249.05 174.79,-289.91 206.32,-316.44" style=""/>
+<polygon fill="black" stroke="black" points="203.67,-318.78 213.58,-322.54 208.18,-313.43 203.67,-318.78" style=""/>
+</g>
+<!-- PacketAnalysis -->
+<g id="node3" class="node" pointer-events="visible" data-name="PacketAnalysis">
+
+<polygon fill="lightblue" stroke="black" points="289.01,-252 186.38,-252 186.38,-216 289.01,-216 289.01,-252" style=""/>
+<text text-anchor="middle" x="237.7" y="-229.8" font-family="Times,serif" font-size="14.00" style="">PacketAnalysis</text>
+</g>
+<!-- RosettaStoneParadigm&#45;&gt;PacketAnalysis -->
+<g id="edge2" class="edge" data-name="RosettaStoneParadigm-&gt;PacketAnalysis">
+
+<path fill="none" stroke="black" d="M150.38,-219.47C158.64,-220.86 166.98,-222.27 175.06,-223.63" style=""/>
+<polygon fill="black" stroke="black" points="174.34,-227.05 184.78,-225.26 175.5,-220.15 174.34,-227.05" style=""/>
+</g>
+<!-- FileHandling -->
+<g id="node4" class="node" pointer-events="visible" data-name="FileHandling">
+
+<polygon fill="lightblue" stroke="black" points="282.58,-198 192.81,-198 192.81,-162 282.58,-162 282.58,-198" style=""/>
+<text text-anchor="middle" x="237.7" y="-175.8" font-family="Times,serif" font-size="14.00" style="">FileHandling</text>
+</g>
+<!-- RosettaStoneParadigm&#45;&gt;FileHandling -->
+<g id="edge3" class="edge" data-name="RosettaStoneParadigm-&gt;FileHandling">
+
+<path fill="none" stroke="black" d="M150.38,-194.53C160.88,-192.76 171.52,-190.97 181.57,-189.28" style=""/>
+<polygon fill="black" stroke="black" points="181.86,-192.78 191.14,-187.67 180.7,-185.88 181.86,-192.78" style=""/>
+</g>
+<!-- Visualization -->
+<g id="node5" class="node" pointer-events="visible" data-name="Visualization">
+
+<polygon fill="lightblue" stroke="black" points="282.85,-90 192.55,-90 192.55,-54 282.85,-54 282.85,-90" style=""/>
+<text text-anchor="middle" x="237.7" y="-67.8" font-family="Times,serif" font-size="14.00" style="">Visualization</text>
+</g>
+<!-- RosettaStoneParadigm&#45;&gt;Visualization -->
+<g id="edge4" class="edge" data-name="RosettaStoneParadigm-&gt;Visualization">
+
+<path fill="none" stroke="black" d="M98.24,-188.51C126.24,-164.95 174.79,-124.09 206.32,-97.56" style=""/>
+<polygon fill="black" stroke="black" points="208.18,-100.57 213.58,-91.46 203.67,-95.22 208.18,-100.57" style=""/>
+</g>
+<!-- TkinterInterface -->
+<g id="node6" class="node" pointer-events="visible" data-name="TkinterInterface">
+
+<polygon fill="lightblue" stroke="black" points="455.1,-414 348.22,-414 348.22,-378 455.1,-378 455.1,-414" style=""/>
+<text text-anchor="middle" x="401.66" y="-391.8" font-family="Times,serif" font-size="14.00" style="">TkinterInterface</text>
+</g>
+<!-- GUI&#45;&gt;TkinterInterface -->
+<g id="edge5" class="edge" data-name="GUI-&gt;TkinterInterface">
+
+<path fill="none" stroke="black" d="M265.08,-350.8C284.52,-357.28 311.82,-366.38 336.84,-374.72" style=""/>
+<polygon fill="black" stroke="black" points="335.73,-378.04 346.32,-377.88 337.94,-371.4 335.73,-378.04" style=""/>
+</g>
+<!-- GraphvizIntegration -->
+<g id="node7" class="node" pointer-events="visible" data-name="GraphvizIntegration">
+
+<polygon fill="lightblue" stroke="black" points="466.17,-360 337.15,-360 337.15,-324 466.17,-324 466.17,-360" style=""/>
+<text text-anchor="middle" x="401.66" y="-337.8" font-family="Times,serif" font-size="14.00" style="">GraphvizIntegration</text>
+</g>
+<!-- GUI&#45;&gt;GraphvizIntegration -->
+<g id="edge6" class="edge" data-name="GUI-&gt;GraphvizIntegration">
+
+<path fill="none" stroke="black" d="M265.08,-342C281.64,-342 303.91,-342 325.61,-342" style=""/>
+<polygon fill="black" stroke="black" points="325.36,-345.5 335.36,-342 325.36,-338.5 325.36,-345.5" style=""/>
+</g>
+<!-- WiresharkIntegration -->
+<g id="node8" class="node" pointer-events="visible" data-name="WiresharkIntegration">
+
+<polygon fill="lightblue" stroke="black" points="469.39,-306 333.94,-306 333.94,-270 469.39,-270 469.39,-306" style=""/>
+<text text-anchor="middle" x="401.66" y="-283.8" font-family="Times,serif" font-size="14.00" style="">WiresharkIntegration</text>
+</g>
+<!-- PacketAnalysis&#45;&gt;WiresharkIntegration -->
+<g id="edge7" class="edge" data-name="PacketAnalysis-&gt;WiresharkIntegration">
+
+<path fill="none" stroke="black" d="M289.5,-250.94C303.76,-255.69 319.47,-260.93 334.49,-265.94" style=""/>
+<polygon fill="black" stroke="black" points="333.23,-269.21 343.83,-269.05 335.45,-262.57 333.23,-269.21" style=""/>
+</g>
+<!-- FormatComparison -->
+<g id="node9" class="node" pointer-events="visible" data-name="FormatComparison">
+
+<polygon fill="lightblue" stroke="black" points="464.05,-252 339.28,-252 339.28,-216 464.05,-216 464.05,-252" style=""/>
+<text text-anchor="middle" x="401.66" y="-229.8" font-family="Times,serif" font-size="14.00" style="">FormatComparison</text>
+</g>
+<!-- PacketAnalysis&#45;&gt;FormatComparison -->
+<g id="edge8" class="edge" data-name="PacketAnalysis-&gt;FormatComparison">
+
+<path fill="none" stroke="black" d="M289.5,-234C301.63,-234 314.81,-234 327.71,-234" style=""/>
+<polygon fill="black" stroke="black" points="327.43,-237.5 337.43,-234 327.43,-230.5 327.43,-237.5" style=""/>
+</g>
+<!-- ImportExport -->
+<g id="node10" class="node" pointer-events="visible" data-name="ImportExport">
+
+<polygon fill="lightblue" stroke="black" points="447.87,-198 355.46,-198 355.46,-162 447.87,-162 447.87,-198" style=""/>
+<text text-anchor="middle" x="401.66" y="-175.8" font-family="Times,serif" font-size="14.00" style="">ImportExport</text>
+</g>
+<!-- FileHandling&#45;&gt;ImportExport -->
+<g id="edge9" class="edge" data-name="FileHandling-&gt;ImportExport">
+
+<path fill="none" stroke="black" d="M282.95,-180C301.67,-180 323.7,-180 343.61,-180" style=""/>
+<polygon fill="black" stroke="black" points="343.53,-183.5 353.53,-180 343.53,-176.5 343.53,-183.5" style=""/>
+</g>
+<!-- FormatConversion -->
+<g id="node11" class="node" pointer-events="visible" data-name="FormatConversion">
+
+<polygon fill="lightblue" stroke="black" points="462.16,-144 341.17,-144 341.17,-108 462.16,-108 462.16,-144" style=""/>
+<text text-anchor="middle" x="401.66" y="-121.8" font-family="Times,serif" font-size="14.00" style="">FormatConversion</text>
+</g>
+<!-- FileHandling&#45;&gt;FormatConversion -->
+<g id="edge10" class="edge" data-name="FileHandling-&gt;FormatConversion">
+
+<path fill="none" stroke="black" d="M282.95,-165.24C298.93,-159.92 317.33,-153.78 334.76,-147.97" style=""/>
+<polygon fill="black" stroke="black" points="335.65,-151.37 344.03,-144.88 333.43,-144.73 335.65,-151.37" style=""/>
+</g>
+<!-- PacketStructureDiagram -->
+<g id="node12" class="node" pointer-events="visible" data-name="PacketStructureDiagram">
+
+<polygon fill="lightblue" stroke="black" points="478.28,-90 325.05,-90 325.05,-54 478.28,-54 478.28,-90" style=""/>
+<text text-anchor="middle" x="401.66" y="-67.8" font-family="Times,serif" font-size="14.00" style="">PacketStructureDiagram</text>
+</g>
+<!-- Visualization&#45;&gt;PacketStructureDiagram -->
+<g id="edge11" class="edge" data-name="Visualization-&gt;PacketStructureDiagram">
+
+<path fill="none" stroke="black" d="M282.95,-72C292.45,-72 302.79,-72 313.28,-72" style=""/>
+<polygon fill="black" stroke="black" points="313.18,-75.5 323.18,-72 313.18,-68.5 313.18,-75.5" style=""/>
+</g>
+<!-- ProcessFlowDiagram -->
+<g id="node13" class="node" pointer-events="visible" data-name="ProcessFlowDiagram">
+
+<polygon fill="lightblue" stroke="black" points="469.7,-36 333.62,-36 333.62,0 469.7,0 469.7,-36" style=""/>
+<text text-anchor="middle" x="401.66" y="-13.8" font-family="Times,serif" font-size="14.00" style="">ProcessFlowDiagram</text>
+</g>
+<!-- Visualization&#45;&gt;ProcessFlowDiagram -->
+<g id="edge12" class="edge" data-name="Visualization-&gt;ProcessFlowDiagram">
+
+<path fill="none" stroke="black" d="M282.95,-57.24C298.93,-51.92 317.33,-45.78 334.76,-39.97" style=""/>
+<polygon fill="black" stroke="black" points="335.65,-43.37 344.03,-36.88 333.43,-36.73 335.65,-43.37" style=""/>
+</g>
+</g>
+</svg>

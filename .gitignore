@@ -1,0 +1,14 @@
+.rvenv
+examples/
+process_flow.dot
+project_structure.dot
+
+
+# It's also a good practice to ignore common system and editor files
+.DS_Store
+*.swp
+*~
+
+# If you're using Python, you might want to ignore these as well
+__pycache__/
+*.py[cod]
